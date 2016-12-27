@@ -1,0 +1,47 @@
+img {
+    max-width: 100%;
+}
+
+.quitar-float {
+    float: none;
+}
+
+.espacio-arriba {
+    margin-top: 100px;
+}
+
+.cookie {
+    font-family: 'cookie', cursive;
+}
+
+.courgette {
+    font-family: 'Courgette', cursive;
+}
+
+.grande {
+    font-size: 4em;
+}
+
+.mediano{
+  font-size: 3em;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.rochester{
+  font-family: 'Rochester', cursive;
+}
+
+.verde{
+  color: #043332;
+}
+
+.link{
+  color: #08B1AE;
+}
+
+.espacio-derecha{
+  margin-right: 1em;
+}
